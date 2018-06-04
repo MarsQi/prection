@@ -1,0 +1,191 @@
+.relation-control {
+  width: 100%;
+  padding: 0 0.42666667rem 0.37333333rem 0.42666667rem;
+}
+.relation-control h3 {
+  font-size: 0.4rem;
+  color: #656565;
+  margin: 0.26666667rem 0;
+}
+.relation-control #container {
+  width: 9.2rem;
+  height: 6.8rem;
+}
+.relation-control .container {
+  width: 9.2rem;
+  height: 6.8rem;
+}
+.relation-control .container img {
+  height: 100%;
+  width: 100%;
+}
+.relation-control .mapImg {
+  width: 9.2rem;
+  height: 6.8rem;
+}
+.relation-control .mapImg img {
+  width: 9.2rem;
+  height: 6.8rem;
+  display: block;
+}
+.relation-control .name_box {
+  width: 9.2rem;
+  height: 2.46666667rem;
+  background: #4287ff;
+  padding-left: 0.2rem;
+  padding-top: 0.2rem;
+  position: relative;
+}
+.relation-control .name_box .names {
+  font-size: 0.53333333rem;
+  color: white;
+  width: 70%;
+  margin-bottom: 0.06666667rem;
+}
+.relation-control .name_box .xingji img {
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.relation-control .name_box .xingji span {
+  color: white;
+  font-size: 0.34666667rem;
+}
+.relation-control .name_box .xingji span i {
+  margin: 0 0.13333333rem;
+}
+.relation-control .name_box .path {
+  position: absolute;
+  margin-right: 0.4rem;
+  top: 50%;
+  margin-top: -0.89333333rem;
+  right: 0.13333333rem;
+}
+.relation-control .name_box .path img {
+  width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+}
+.relation-control .weizhi {
+  width: 9.2rem;
+  height: 1.6rem;
+  background: white;
+  position: relative;
+}
+.relation-control .weizhi .weizhi_box {
+  width: 100%;
+  height: 0.86666667rem;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -0.43333333rem;
+}
+.relation-control .weizhi .weizhi_box div {
+  display: inline-block;
+}
+.relation-control .weizhi .weizhi_box .icon {
+  width: 10%;
+  height: 100%;
+  text-align: center;
+}
+.relation-control .weizhi .weizhi_box .icon img {
+  width: 0.42666667rem;
+  height: 0.56rem;
+  vertical-align: middle;
+}
+.relation-control .weizhi .weizhi_box .cont {
+  width: 70%;
+  font-size: 0.37333333rem;
+  vertical-align: middle;
+}
+.relation-control .weizhi .weizhi_box .photo {
+  float: right;
+  width: 15%;
+  height: 100%;
+  text-align: center;
+  border-left: #cfcfcf 1px solid;
+  line-height: 0.86666667rem;
+}
+.relation-control .weizhi .weizhi_box .photo img {
+  width: 0.46666667rem;
+  height: 0.6rem;
+  vertical-align: middle;
+}
+.relation-control .fuwucont_box {
+  margin-top: 0.26666667rem;
+  height: 2.53333333rem;
+  width: 100%;
+  background: white;
+  padding: 0.26666667rem;
+}
+.relation-control .fuwucont_box h4 {
+  color: #4085ff;
+}
+.relation-control .fuwucont_box p {
+  margin-top: 0.33333333rem;
+  font-size: 0.34666667rem;
+  color: #6fa2ff;
+}
+.relation-control .fuwupingjia {
+  width: 100%;
+  height: 5.2rem;
+  background: white;
+  margin-top: 0.26666667rem;
+  padding: 0.53333333rem;
+}
+.relation-control .fuwupingjia .tit {
+  font-size: 0.42666667rem;
+  font-weight: 600;
+}
+.relation-control .fuwupingjia .fenshu_box {
+  width: 3.46666667rem;
+  height: 3.88rem;
+  text-align: center;
+  padding-top: 0.33333333rem;
+  display: inline-block;
+}
+.relation-control .fuwupingjia .fenshu_box .fenshu {
+  font-size: 0.34666667rem;
+  color: #fda801;
+}
+.relation-control .fuwupingjia .fenshu_box .fenshu span {
+  font-size: 1.2rem;
+}
+.relation-control .fuwupingjia .fenshu_box .img_box {
+  margin-bottom: 0.2rem;
+}
+.relation-control .fuwupingjia .fenshu_box .img_box img {
+  width: 0.33333333rem;
+  height: 0.33333333rem;
+}
+.relation-control .fuwupingjia .fenshu_box .pinlun {
+  font-size: 0.37333333rem;
+  color: #929292;
+}
+.relation-control .fuwupingjia .xingji {
+  display: inline-block;
+  color: #cdcdcd;
+}
+.relation-control .fuwupingjia .xingji i {
+  margin: 0 0.13333333rem;
+}
+.relation-control .fuwupingjia .xingji span {
+  display: inline-block;
+  border-radius: 10%;
+  background: #fda801;
+  height: 0.33333333rem;
+}
+.relation-control .fuwupingjia .xingji div:nth-child(1) span {
+  width: 1.06666667rem;
+}
+.relation-control .fuwupingjia .xingji div:nth-child(2) span {
+  width: 1.2rem;
+}
+.relation-control .fuwupingjia .xingji div:nth-child(3) span {
+  width: 1.2rem;
+}
+.relation-control .fuwupingjia .xingji div:nth-child(4) span {
+  width: 0.13333333rem;
+}
+.relation-control .fuwupingjia .xingji div:nth-child(5) span {
+  width: 0.13333333rem;
+}

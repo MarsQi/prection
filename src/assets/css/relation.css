@@ -1,0 +1,30 @@
+.info_box {
+  width: 6.26666667rem;
+  height: 4.85333333rem;
+  background: #323a3d;
+  padding: 0.26666667rem;
+}
+.info_box .timefive {
+  width: 5.6rem;
+  height: 2.26666667rem;
+  margin-bottom: 0.13333333rem;
+}
+.info_box p {
+  font-size: 0.37333333rem;
+  color: #aecce9;
+}
+.info_box .pingjia {
+  font-size: 0.37333333rem;
+  color: #aecce9;
+}
+.info_box .xingji img {
+  width: 0.37333333rem;
+  height: 0.37333333rem;
+  margin-left: 0.06666667rem;
+}
+.amap-info-content {
+  padding: 0;
+}
+.amap-info-close {
+  right: 2px!important;
+}
